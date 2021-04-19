@@ -1,0 +1,32 @@
+{
+  "name": "webmon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webmon.js",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "color-diff": "^1.2.0",
+    "concat-stream": "^2.0.0",
+    "fs-extra": "^9.1.0",
+    "js-graph-algorithms": "^1.0.18",
+    "lodash": "^4.17.21",
+    "looks-same": "^7.3.0",
+    "native-image-diff": "^0.1.11",
+    "nested-error-stacks": "^2.1.0",
+    "parse-color": "^1.0.0",
+    "pixelmatch": "^5.2.1",
+    "pngjs": "^6.0.0",
+    "puppeteer": "^8.0.0"
+  },
+  "devDependencies": {
+    "convert-array-to-csv": "^2.0.0",
+    "convert-csv-to-array": "^1.0.3",
+    "puppeteer-extra": "^3.1.17",
+    "puppeteer-extra-plugin-adblocker": "^2.11.10"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
